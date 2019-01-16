@@ -481,6 +481,7 @@ address {
   
   .example-job__text {
     margin-top: 3px;
+    margin-bottom: 12px;
   }
   
   .example-job__item {
