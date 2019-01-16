@@ -482,6 +482,11 @@ address {
   .example-job__text {
     margin-top: 3px;
     margin-bottom: 12px;
+    margin-bottom: 26px;
+    font-size: 16px;
+}
+
+
   }
   
   .example-job__item {
