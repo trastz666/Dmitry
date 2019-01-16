@@ -1,6 +1,6 @@
 <?php
 echo 'Привет';
->
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
