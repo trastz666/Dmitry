@@ -414,6 +414,10 @@ address {
   }
 
   /* main*/
+  
+  .main {
+    padding-bottom: 30px;
+  }
 
   .main-text {
     justify-content: center;
@@ -474,7 +478,11 @@ address {
   .example-job__title {
     margin-bottom: 53px;
   }
-
+  
+  .example-job__text {
+    margin-top: 3px;
+  }
+  
   .example-job__item {
     max-width: 300px;
     margin-right: 0;
