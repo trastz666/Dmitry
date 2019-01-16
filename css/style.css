@@ -476,6 +476,7 @@ address {
   }
 
   .example-job__item {
+    max-width: 300px;
     margin-right: 0;
   }
 
