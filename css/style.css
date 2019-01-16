@@ -230,6 +230,10 @@ button {
 .example-job__item {
   max-width: 370px;
   margin-right: 30px;
+  margin-bottom: 30px;
+}
+.example-job__text {
+  margin-top: 3px;
 }
 
 .example-job__btn {
@@ -481,12 +485,8 @@ address {
   
   .example-job__text {
     margin-top: 3px;
-    margin-bottom: 12px;
-    margin-bottom: 26px;
+    margin-bottom: 30px;
     font-size: 16px;
-}
-
-
   }
   
   .example-job__item {
@@ -539,12 +539,17 @@ address {
   }
 
   .footer-info__menu {
-    font-size: 18px;
+    font-size: 26px;
     margin-bottom: 30px;
+  }
+
+  .footer-info__item {
+    font-size: 18px;
   }
 
   .footer-contacts {
     margin-bottom: 30px;
+    font-size: 21px;
   }
 
   .footer-social__btn {
@@ -643,12 +648,6 @@ address {
   .example-job__title {
     margin-bottom: 50px;
 }
-  .example-job__text {
-    margin-top: 3px;
-    margin-bottom: 12px;
-    margin-bottom: 26px;
-    font-size: 16px;
-  }
 
   .example-job__content {
     margin-bottom: 50px;
@@ -691,6 +690,7 @@ address {
 
   .footer-info__item {
     margin-bottom: 25px;
+    font-size: 18px;
   }
 
   .footer-contacts {
@@ -895,6 +895,8 @@ address {
   }
 
 }
+
+
 
 
 
